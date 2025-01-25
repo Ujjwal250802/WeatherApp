@@ -42,7 +42,9 @@ npx expo start
 4.Testing the App:
 
 -Scan the QR code with Expo Go app on your mobile device
+
 -Press 'i' for iOS simulator
+
 -Press 'a' for Android emulator
 
 Tools and Libraries Used
