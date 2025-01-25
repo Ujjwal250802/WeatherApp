@@ -25,8 +25,10 @@ Setup and Running Instructions
 1.Prerequisites:
 
 
-- Node.js (latest LTS version)
-- Expo CLI
+- Node.js (latest LTS version 18 and above)
+  
+- Expo CLI (npm install -g expo-cli)
+
 - Expo Go app (for mobile testing)
 
 2.Install Dependencies:
